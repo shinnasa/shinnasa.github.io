@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shinpei Nakamura-Sakai / Site Title"
+title                    : "Shinpei Nakamura-Sakai"
 title_separator          : "-"
 name                     : &name "Shinpei Nakamura-Sakai"
 description              : &description "Ph.D. Student at Yale University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shinpei Nakamura-Sakai"
   avatar           : "FormalShinpei.jpg"
-  bio              : "Ph.D. in S&DS Student at Yale University"
+  bio              : "Ph.D. in S&DS at Yale University"
   location         : "Yale University"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
