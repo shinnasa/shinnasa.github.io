@@ -9,3 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student in Statistics and Data Science at Yale University. I am broadly interested in the intersection of causal inference and machine learning. In particular, I am working on causal inference under interference. On application, I enjoy applying theory to solve problems related to medicine, social science, and sports. I am very fortunate to be adviced by Professor [Jas Sekhon](http://sekhon.berkeley.edu/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
+
+Publications
+======
+Pub
