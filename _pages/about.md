@@ -14,7 +14,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. I am bro
 ### Sports Analytics
 - [Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA](https://github.com/shinnasa/ACTE/blob/main/UCSAS_2022_Poster.pdf) <br>
   <b> Shinpei Nakamura-Sakai </b>, Brian Macdonald <br>
-  presented in CASSIS 2022 and winner of the best poster award at UCSAS 2022
+  presented in CASSIS 2022 and winner of the best poster award at UCSAS 2022, [Shiny](https://snakamura.shinyapps.io/Shiny/)
 
 ### Applications
 - [COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit](https://link.springer.com/article/10.1186/s12889-022-12824-7) <br>
