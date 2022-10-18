@@ -16,7 +16,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. I am bro
   <b> Shinpei Nakamura-Sakai </b>, Brian Macdonald <br>
   presented in CASSIS 2022 and winner of the best poster award at UCSAS 2022, [Shiny](https://snakamura.shinyapps.io/Shiny/)
 
-### Applications
+### Healthcare and Social Sciences
 - [COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit](https://link.springer.com/article/10.1186/s12889-022-12824-7) <br>
 N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, <b> S Nakamura-Sakai </b>, ... <br>
 BMC Public Health, 2022
