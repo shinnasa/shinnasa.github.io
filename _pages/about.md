@@ -42,18 +42,18 @@ Healthcare Analytics, 2021
 
 ## Teaching
 ### Yale
-- <b>Teaching Fellow</b> S&DS 361/661: Data Analysis, Instructor: Brian Macdonald, Spring 2023
-- <b>Teaching Fellow</b> S&DS 425: Statistical Case Studies, Instructor: Brian Macdonald, Fall 2022, Fall 2021
-- <b>Teaching Fellow</b> S&DS 317/517: Applied Machine Learning and Causal Inference, Instructor: Jas Sekhon, Spring 2022
+- <b>Teaching Fellow</b>: Data Analysis (S&DS 361/661), Instructor: Brian Macdonald, Spring 2023
+- <b>Teaching Fellow</b>: Statistical Case Studies (S&DS 425), Instructor: Brian Macdonald, Fall 2022, Fall 2021
+- <b>Teaching Fellow</b>: Applied Machine Learning and Causal Inference (S&DS 317/517), Instructor: Jas Sekhon, Spring 2022
 
 ### Universidad Nacional Autónoma de México (UNAM)
-- <b>Adjunct Professor</b> Advanced Probability, Spring 2020
-- <b>Teaching Assistant</b> Stochastic Processes, Spring 2017
-- <b>Teaching Assistant</b> Risk Theory, Fall 2016
-- <b>Workshop Instructor</b> Construction and Evaluation of Actuarial Models Exam C, Fall 2016
+- <b>Adjunct Professor</b>: Advanced Probability, Spring 2020
+- <b>Teaching Assistant</b>: Stochastic Processes, Spring 2017
+- <b>Teaching Assistant</b>: Risk Theory, Fall 2016
+- <b>Workshop Instructor</b>: Construction and Evaluation of Actuarial Models Exam C, Fall 2016
 
 ### The University of Chicago
-- <b>Workshop Instructos</b> Introduction to Deep Learning, Summer 2019
+- <b>Workshop Instructos</b>: Introduction to Deep Learning, Summer 2019
 
 ## Employment
 - <b>Quantitative Summer Associate</b>, [JPMorgan Chase](https://www.jpmorganchase.com/), Summer 2023
