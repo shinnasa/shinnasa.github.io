@@ -56,6 +56,6 @@ Healthcare Analytics, 2021
 - <b>Workshop Instructos</b> Introduction to Deep Learning, Summer 2019
 
 ## Employment
-- Quantitative Summer Associate, [JPMorgan Chase](https://www.jpmorganchase.com/), Summer 2023
-- Data Associate, [Bitso](https://bitso.com/), Summer 2021
-- Financial Researcher, [Banco de México](https://www.banxico.org.mx/), Dec 2019 - Aug 2020
+- <b>Quantitative Summer Associate</b>, [JPMorgan Chase](https://www.jpmorganchase.com/), Summer 2023
+- <b>Data Associate</b>, [Bitso](https://bitso.com/), Summer 2021
+- <b>Financial Researcher</b>, [Banco de México](https://www.banxico.org.mx/), Dec 2019 - Aug 2020
