@@ -15,7 +15,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. I am bro
 - Estimating causal effects of interventions altering social connectivity patterns under network interference <br>
 <b> Shinpei Nakamura-Sakai </b>, Laura Forastiere <br>
   presented in ACIC 2023 and winner of the best poster award at [JSM 2023](https://community.amstat.org/spaac/awards/poster-award) <br>
-[Link] ()
+[Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf)
 
 ### Sports Analytics
 - [Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA] <br>
