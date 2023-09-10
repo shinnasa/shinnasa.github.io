@@ -24,7 +24,7 @@ Fadi Hamad<sup>*</sup>, <b> Shinpei Nakamura-Sakai<sup>*</sup></b>  Saheed Obita
 [Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf)
 
 ### Sports Analytics
-- [Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA] <br>
+- Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA <br>
   <b> Shinpei Nakamura-Sakai </b>, Brian Macdonald <br>
   Presented in CASSIS 2022 and <b> winner of the best poster award </b> at [UCSAS 2022](https://statds.org/events/ucsas2022/) <br>
 [Link](https://shinnasa.github.io/files/UCSAS_2022_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/)
@@ -42,18 +42,18 @@ Healthcare Analytics, 2021
 
 ## Teaching
 ### Yale
-- (Teaching Fellow) S&DS 361/661: Data Analysis, Instructor: Brian Macdonald, Spring 2023
-- (Teaching Fellow) S&DS 425: Statistical Case Studies, Instructor: Brian Macdonald, , Fall 2022, Fall 2021
-- (Teaching Fellow) S&DS 317/517: Applied Machine Learning and Causal Inference, Instructor: Jas Sekhon, Spring 2022
+- <b>Teaching Fellow</b> S&DS 361/661: Data Analysis, Instructor: Brian Macdonald, Spring 2023
+- <b>Teaching Fellow</b> S&DS 425: Statistical Case Studies, Instructor: Brian Macdonald, Fall 2022, Fall 2021
+- <b>Teaching Fellow</b> S&DS 317/517: Applied Machine Learning and Causal Inference, Instructor: Jas Sekhon, Spring 2022
 
 ### Universidad Nacional Autónoma de México (UNAM)
-- (Adjunct Professor) Advanced Probability, Spring 2020
-- (Teaching Assistant) Stochastic Processes, Spring 2017
-- (Teaching Assistant) Risk Theory, Fall 2016
-- (Workshop Instructor) Construction and Evaluation of Actuarial Models Exam C, Fall 2016
+- <b>Adjunct Professor</b> Advanced Probability, Spring 2020
+- <b>Teaching Assistant</b> Stochastic Processes, Spring 2017
+- <b>Teaching Assistant</b> Risk Theory, Fall 2016
+- <b>Workshop Instructor</b> Construction and Evaluation of Actuarial Models Exam C, Fall 2016
 
 ### The University of Chicago
-- (Workshop Instructos) Introduction to Deep Learning, Summer 2019
+- <b>Workshop Instructos</b> Introduction to Deep Learning, Summer 2019
 
 ## Employment
 - Quantitative Summer Associate, [JPMorgan Chase](https://www.jpmorganchase.com/), Summer 2023
