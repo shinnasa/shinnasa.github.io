@@ -10,12 +10,14 @@ redirect_from:
 
 I am a Ph.D. student in Statistics and Data Science at Yale University. I am broadly interested in the intersection of causal inference and machine learning. In particular, I am working on causal inference under interference. In application, I enjoy applying theory to solve problems related to medicine, social science, and sports. I am very fortunate to be advised by Professor [Jas Sekhon](http://sekhon.berkeley.edu/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
 
-## Publications
+## Research
+### Causal Inference
+- 
 ### Sports Analytics
 - [Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA](https://github.com/shinnasa/ACTE/blob/main/UCSAS_2022_Poster.pdf) <br>
   <b> Shinpei Nakamura-Sakai </b>, Brian Macdonald <br>
-  presented in CASSIS 2022 and winner of the best poster award <br>
-  [UCSAS 2022](https://statds.org/events/ucsas2022/), [App](https://snakamura.shinyapps.io/Shiny/)
+  presented in CASSIS 2022 and winner of the best poster award at   [UCSAS 2022](https://statds.org/events/ucsas2022/) <br>
+[App](https://snakamura.shinyapps.io/Shiny/)
 
 ### Healthcare and Social Sciences
 - [COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit](https://link.springer.com/article/10.1186/s12889-022-12824-7) <br>
