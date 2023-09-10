@@ -11,9 +11,11 @@ redirect_from:
 I am a Ph.D. student in Statistics and Data Science at Yale University. I am broadly interested in the intersection of causal inference and machine learning. In particular, I am working on causal inference under interference. In application, I enjoy applying theory to solve problems related to medicine, social science, and sports. I am very fortunate to be advised by Professor [Jas Sekhon](http://sekhon.berkeley.edu/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
 
 ## Research
+(*) indicates equal contribution
 ### Syhthetic Data
--  supervised generative optimization approach for tabular data <br>
+-  Supervised generative optimization approach for tabular data <br>
 Fadi Hamad<sup>*</sup>, <b> Shinpei Nakamura-Sakai<sup>*</sup></b>  Saheed Obitayo, Vamsi K. Potluru <br>
+<b>Winner of 2nd Place at JPMC Global Hackathon</b>
 
 ### Causal Inference
 - Estimating causal effects of interventions altering social connectivity patterns under network interference <br>
@@ -44,7 +46,7 @@ Healthcare Analytics, 2021
 - (Teaching Fellow) S&DS 425: Statistical Case Studies, Instructor: Brian Macdonald, , Fall 2022, Fall 2021
 - (Teaching Fellow) S&DS 317/517: Applied Machine Learning and Causal Inference, Instructor: Jas Sekhon, Spring 2022
 
-### Universidad Nacional Autónoma de México
+### Universidad Nacional Autónoma de México (UNAM)
 - (Adjunct Professor) Advanced Probability, Spring 2020
 - (Teaching Assistant) Stochastic Processes, Spring 2017
 - (Teaching Assistant) Risk Theory, Fall 2016
