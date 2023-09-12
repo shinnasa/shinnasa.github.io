@@ -15,8 +15,8 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. I am bro
 ### Syhthetic Data
 -  Supervised generative optimization approach for tabular data <br>
 Fadi Hamad<sup>*</sup>, <b> Shinpei Nakamura-Sakai<sup>*</sup></b>  Saheed Obitayo, Vamsi K. Potluru <br>
-<b>Winner of 2nd Place at JPMC Global Hackathon</b>
-
+<b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
+[Link](https://arxiv.org/abs/2309.05079)
 ### Causal Inference
 - Estimating causal effects of interventions altering social connectivity patterns under network interference <br>
 <b> Shinpei Nakamura-Sakai </b>, Laura Forastiere <br>
