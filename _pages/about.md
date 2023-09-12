@@ -21,14 +21,14 @@ Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vams
 ### Causal Inference
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  Presented in ACIC 2023 and <b> winner of the best poster award </b>  at [JSM 2023](https://community.amstat.org/spaac/awards/poster-award) <br>
-[Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf)
+  Presented in ACIC 2023 and <b> winner of the best poster award </b>  at [JSM 2023] <br>
+[Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Media](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award), [Award](https://community.amstat.org/spaac/awards/poster-award)
 
 ### Sports Analytics
 - <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
   Shinpei Nakamura-Sakai, Brian Macdonald <br>
-  Presented in CASSIS 2022 and <b> winner of the best poster award </b> at [UCSAS 2022](https://statds.org/events/ucsas2022/) <br>
-[Link](https://shinnasa.github.io/files/UCSAS_2022_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/)
+  Presented in CASSIS 2022 and <b> winner of the best poster award </b> at UCSAS 2022 <br>
+[Link](https://shinnasa.github.io/files/UCSAS_2022_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [Award](https://statds.org/events/ucsas2022/)
 
 ### Healthcare and Social Sciences
 - <b> COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit</b><br>
