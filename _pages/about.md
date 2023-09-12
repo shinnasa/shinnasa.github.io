@@ -13,32 +13,32 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. I am bro
 ## Research
 (*) indicates equal contribution
 ### Syhthetic Data
--  Supervised generative optimization approach for tabular data <br>
-Fadi Hamad<sup>*</sup>, <b> Shinpei Nakamura-Sakai<sup>*</sup></b>  Saheed Obitayo, Vamsi K. Potluru <br>
+-  <b> Supervised generative optimization approach for tabular data</b>  <br>
+Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
 <b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
 [Link](https://arxiv.org/abs/2309.05079)
 
 ### Causal Inference
-- Estimating causal effects of interventions altering social connectivity patterns under network interference <br>
-<b> Shinpei Nakamura-Sakai </b>, Laura Forastiere <br>
+- <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
+  Shinpei Nakamura-Sakai, Laura Forastiere <br>
   Presented in ACIC 2023 and <b> winner of the best poster award </b>  at [JSM 2023](https://community.amstat.org/spaac/awards/poster-award) <br>
 [Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf)
 
 ### Sports Analytics
-- Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA <br>
-  <b> Shinpei Nakamura-Sakai </b>, Brian Macdonald <br>
+- <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
+  Shinpei Nakamura-Sakai, Brian Macdonald <br>
   Presented in CASSIS 2022 and <b> winner of the best poster award </b> at [UCSAS 2022](https://statds.org/events/ucsas2022/) <br>
 [Link](https://shinnasa.github.io/files/UCSAS_2022_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/)
 
 ### Healthcare and Social Sciences
 - [COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit](https://link.springer.com/article/10.1186/s12889-022-12824-7) <br>
-N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, <b> S Nakamura-Sakai </b>, ... <br>
+N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, S Nakamura-Sakai, ... <br>
 BMC Public Health, 2022
 - [News Events and Their Relationship With US Vape Sales: An Interrupted Time Series Analysis](https://link.springer.com/article/10.1186/s12889-022-12858-x) <br>
-Kamila Janmohamed, <b> Shinpei Nakamura-Sakai </b>, Abdul-Nasah Soale, Laura Forastiere, Navin Kumar<br>
+Kamila Janmohamed, Shinpei Nakamura-Sakai, Abdul-Nasah Soale, Laura Forastiere, Navin Kumar<br>
 BMC Public Health, 2021
 - [Longitudinal Analysis of the Determinants of Life Expectancy and Healthy Life Expectancy: A Causal Approach](https://www.sciencedirect.com/science/article/pii/S2772442522000077) <br>
-Rohan Aanegola, <b> Shinpei Nakamura-Sakai </b>, Navin Kumar <br>
+Rohan Aanegola, Shinpei Nakamura-Sakai, Navin Kumar <br>
 Healthcare Analytics, 2021
 
 ## Teaching
