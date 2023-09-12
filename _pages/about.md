@@ -31,15 +31,20 @@ Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vams
 [Link](https://shinnasa.github.io/files/UCSAS_2022_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/)
 
 ### Healthcare and Social Sciences
-- [COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit](https://link.springer.com/article/10.1186/s12889-022-12824-7) <br>
+- COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit<br>
 N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, S Nakamura-Sakai, ... <br>
-BMC Public Health, 2022
-- [News Events and Their Relationship With US Vape Sales: An Interrupted Time Series Analysis](https://link.springer.com/article/10.1186/s12889-022-12858-x) <br>
+BMC Public Health, 2022 <br>
+[Link](https://link.springer.com/article/10.1186/s12889-022-12824-7)
+
+- News Events and Their Relationship With US Vape Sales: An Interrupted Time Series Analysis <br>
 Kamila Janmohamed, Shinpei Nakamura-Sakai, Abdul-Nasah Soale, Laura Forastiere, Navin Kumar<br>
-BMC Public Health, 2021
-- [Longitudinal Analysis of the Determinants of Life Expectancy and Healthy Life Expectancy: A Causal Approach](https://www.sciencedirect.com/science/article/pii/S2772442522000077) <br>
+BMC Public Health, 2021 <br>
+[Link](https://link.springer.com/article/10.1186/s12889-022-12858-x)
+
+- Longitudinal Analysis of the Determinants of Life Expectancy and Healthy Life Expectancy: A Causal Approach<br>
 Rohan Aanegola, Shinpei Nakamura-Sakai, Navin Kumar <br>
-Healthcare Analytics, 2021
+Healthcare Analytics, 2021 <br>
+[Link](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
 
 ## Teaching
 ### Yale
