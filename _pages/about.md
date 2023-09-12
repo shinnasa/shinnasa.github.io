@@ -21,7 +21,7 @@ Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vams
 ### Causal Inference
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  Presented in ACIC 2023 and <b> winner of the best poster award </b>  at [JSM 2023] <br>
+  Presented in ACIC 2023 and <b> winner of the best poster award </b>  at JSM 2023 <br>
 [Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Media](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award), [Award](https://community.amstat.org/spaac/awards/poster-award)
 
 ### Sports Analytics
