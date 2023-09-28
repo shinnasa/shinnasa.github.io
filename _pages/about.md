@@ -15,6 +15,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 ### Syhthetic Data
 -  <b> Supervised generative optimization approach for tabular data</b>  <br>
 Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
+ACM International Conference on AI in Finance, 2023 (Oral, top 20.5%)
 <b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
 [Link](https://arxiv.org/abs/2309.05079)
 
