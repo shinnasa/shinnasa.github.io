@@ -22,14 +22,14 @@ ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 2
 ### Causal Inference
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  <b> Winner of the best poster award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
+  * <b> Winner of the best poster award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
 [Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award), [Award](https://community.amstat.org/spaac/awards/poster-award)
 
 ### Sports Analytics
 - <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
   Shinpei Nakamura-Sakai, Brian Macdonald <br>
-  <b> Winner of the best poster award </b> at New England Symposium on Statistics in Sports (NESSIS), 2023<br>
-  <b> Winner of the best poster award </b> at UConn Sports Analytics Symposium (UCSAS), 2022 <br>
+  * <b> Winner of the best poster award </b> at New England Symposium on Statistics in Sports (NESSIS), 2023<br>
+  * <b> Winner of the best poster award </b> at UConn Sports Analytics Symposium (UCSAS), 2022 <br>
 [Link](https://shinnasa.github.io/files/NESSIS_2023_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [Award](https://statds.org/events/ucsas2022/), [News](https://statistics.yale.edu/news/congratuations-shinpei-nakamura-sakai-winning-2023-nessis-student-poster-competition)
 
 ### Healthcare and Social Sciences
