@@ -28,7 +28,8 @@ ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 2
 ### Sports Analytics
 - <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
   Shinpei Nakamura-Sakai, Brian Macdonald <br>
-  <b> winner of the best poster award </b> at NESSIS 2023 and <b> winner of the best poster award </b> at UCSAS 2022 <br>
+  <b> winner of the best poster award </b> at NESSIS 2023<br>
+  <b> winner of the best poster award </b> at UCSAS 2022 <br>
 [Link](https://shinnasa.github.io/files/NESSIS_2023_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [Award](https://statds.org/events/ucsas2022/), [News](https://statistics.yale.edu/news/congratuations-shinpei-nakamura-sakai-winning-2023-nessis-student-poster-competition)
 
 ### Healthcare and Social Sciences
