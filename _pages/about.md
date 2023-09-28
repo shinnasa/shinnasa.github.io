@@ -22,7 +22,7 @@ ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 2
 ### Causal Inference
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  Presented in ACIC 2023 and <b> winner of the best poster award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
+  <b> Winner of the best poster award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
 [Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award), [Award](https://community.amstat.org/spaac/awards/poster-award)
 
 ### Sports Analytics
