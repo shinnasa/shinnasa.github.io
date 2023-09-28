@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Statistics and Data Science at Yale University. My research interest lies on causal inferece, synthetic data generation, and machine learning application. In application, I enjoy applying theory to solve problems related to finance, medicine, social science, and sports. I am very fortunate to be advised by Professor [Jas Sekhon](http://sekhon.berkeley.edu/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
+I am a Ph.D. student in Statistics and Data Science at Yale University. My research interest lies on causal inferece, synthetic data generation, and machine learning application. In application, I enjoy applying theory to solve problems related to finance, medicine, social science, and sports. I am very fortunate to be advised by Professor [Jas Sekhon](https://www.jsekhon.com/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
 
 ## Research
 (*) indicates equal contribution
