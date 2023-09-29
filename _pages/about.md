@@ -16,21 +16,21 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 -  <b> Supervised generative optimization approach for tabular data</b>  <br>
 Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
 ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
-[Link](https://arxiv.org/abs/2309.05079)
-- <b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
+[ArXiv](https://arxiv.org/abs/2309.05079)
+  - <b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
 
 
 ### Causal Inference
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  [Link](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award), [Award](https://community.amstat.org/spaac/awards/poster-award)
+  [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award), [Award](https://community.amstat.org/spaac/awards/poster-award)
   - <b> Winner of the best poster award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
 
 
 ### Sports Analytics
 - <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
   Shinpei Nakamura-Sakai, Brian Macdonald <br>
-  [Link](https://shinnasa.github.io/files/NESSIS_2023_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [Award](https://statds.org/events/ucsas2022/), [News](https://statistics.yale.edu/news/congratuations-shinpei-nakamura-sakai-winning-2023-nessis-student-poster-competition)
+  [Poster](https://shinnasa.github.io/files/NESSIS_2023_Poster.pdf), [App](https://snakamura.shinyapps.io/Shiny/), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [Award](https://statds.org/events/ucsas2022/), [News](https://statistics.yale.edu/news/congratuations-shinpei-nakamura-sakai-winning-2023-nessis-student-poster-competition)
   - <b> Winner of the best poster award </b> at New England Symposium on Statistics in Sports (NESSIS), 2023<br>
   - <b> Winner of the best poster award </b> at UConn Sports Analytics Symposium (UCSAS), 2022 <br>
 
@@ -39,17 +39,17 @@ ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 2
 - <b> COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit</b><br>
 N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, S Nakamura-Sakai, ... <br>
 BMC Public Health, 2022 <br>
-[Link](https://link.springer.com/article/10.1186/s12889-022-12824-7)
+[Paper](https://link.springer.com/article/10.1186/s12889-022-12824-7)
 
 - <b> News Events and Their Relationship With US Vape Sales: An Interrupted Time Series Analysis</b> <br>
 Kamila Janmohamed, Shinpei Nakamura-Sakai, Abdul-Nasah Soale, Laura Forastiere, Navin Kumar<br>
 BMC Public Health, 2021 <br>
-[Link](https://link.springer.com/article/10.1186/s12889-022-12858-x)
+[Paper](https://link.springer.com/article/10.1186/s12889-022-12858-x)
 
 - <b> Longitudinal Analysis of the Determinants of Life Expectancy and Healthy Life Expectancy: A Causal Approach</b> <br>
 Rohan Aanegola, Shinpei Nakamura-Sakai, Navin Kumar <br>
 Healthcare Analytics, 2021 <br>
-[Link](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
+[Paper](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
 
 ## Teaching
 ### Yale
