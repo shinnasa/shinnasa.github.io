@@ -12,6 +12,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 
 ## Research
 (*) indicates equal contribution
+
 ### Syhthetic Data
 -  <b> Supervised generative optimization approach for tabular data</b>  <br>
   Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
