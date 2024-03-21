@@ -73,7 +73,7 @@ THE WALL STREET JOURNAL <br>
 - <b>Workshop Instructor</b>: Construction and Evaluation of Actuarial Models Exam C, Fall 2016
 
 ### The University of Chicago
-- <b>Workshop Instructos</b>: Introduction to Deep Learning, Summer 2019
+- <b>Workshop Instructor</b>: Introduction to Deep Learning, Summer 2019
 
 ## Employment
 - <b>Quantitative Summer Associate</b>, [JPMorgan Chase](https://www.jpmorganchase.com/), Summer 2023
