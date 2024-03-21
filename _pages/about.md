@@ -55,6 +55,11 @@ Rohan Aanegola, Shinpei Nakamura-Sakai, Navin Kumar <br>
 Healthcare Analytics, 2021 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
 
+## Media Appearance
+- <b> LeBron James Has Done Everything in the NBA. Except This.</b><br>
+THE WALL STREET JOURNAL <br>
+[Article](https://www.wsj.com/sports/basketball/lebron-james-nba-career-averages-f17fb9d1)
+
 ## Teaching
 ### Yale
 - <b>Teaching Fellow</b>: Data Analysis (S&DS 361/661), Instructor: Brian Macdonald, Spring 2023
