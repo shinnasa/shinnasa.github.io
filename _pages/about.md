@@ -16,6 +16,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 ### Syhthetic Data and Differential Privacy
 - <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
   Shinpei Nakamura-Sakai, Dennis Shung, Jasjeet Sekhon <br>
+  [Paper](https://openreview.net/pdf?id=OZXzTwP71l) <br>
   AAAI SSS Clinincal FMs, 2024, Traditional Track (<b>Spotlight</b>, top 10 submission) <br>
 - <b> Supervised generative optimization approach for tabular data</b>  <br>
   Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
