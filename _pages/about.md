@@ -16,11 +16,12 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 ### Syhthetic Data and Differential Privacy
 - <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
   Shinpei Nakamura-Sakai, Dennis Shung, Jasjeet Sekhon <br>
+  Conference on Health, Inference, and Learning, 2024, PMLR, (CHIL), To appear <br>
   AAAI SSS Clinincal FMs, 2024, Traditional Track (<b>Spotlight</b>, top 10 submission) <br>
   [Paper](https://openreview.net/pdf?id=OZXzTwP71l) <br>
 - <b> Supervised generative optimization approach for tabular data</b>  <br>
   Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
-  ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
+  Proceedings of the ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3604237.3626907) <br>
     * <b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
 
