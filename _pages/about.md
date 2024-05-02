@@ -78,7 +78,7 @@ THE WALL STREET JOURNAL <br>
 - <b>Workshop Instructor</b>: Introduction to Deep Learning, Summer 2019
 
 ## Employment
-- <b>Applied Scientist Intern</b>, [Amazon](https://www.amazon.science/), Summer 2024
-- <b>Quantitative Summer Associate</b>, [JPMorgan Chase](https://www.jpmorganchase.com/), Summer 2023
+- <b>Applied Scientist Intern</b>, [Amazon Science](https://www.amazon.science/), Summer 2024
+- <b>Quantitative Summer Associate</b>, [JPMorgan Chase AIML](https://www.jpmorgan.com/technology/applied-ai-and-ml), Summer 2023
 - <b>Data Summer Associate</b>, [Bitso](https://bitso.com/), Summer 2021
 - <b>Financial Researcher</b>, [Banco de México](https://www.banxico.org.mx/), Dec 2019 - Aug 2020
