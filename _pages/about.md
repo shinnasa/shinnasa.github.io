@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. student in Statistics and Data Science at Yale University. My research interest lies on causal inferece, synthetic data generation, and machine learning application. In application, I enjoy applying theory to solve problems related to finance, medicine, social science, and sports. I am very fortunate to be advised by Professor [Jas Sekhon](https://www.jsekhon.com/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
 
 ## Research
-(*) indicates equal contribution and exchangable
+(*) indicates equal contribution and exchangeable
 
 ### Syhthetic Data and Differential Privacy
 - <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
