@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. student in Statistics and Data Science at Yale University. My research interest lies on causal inferece, synthetic data generation, and machine learning application. In application, I enjoy applying theory to solve problems related to finance, medicine, social science, and sports. I am very fortunate to be advised by Professor [Jas Sekhon](https://www.jsekhon.com/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
 
 ## Research
-(*) indicates equal contribution
+(*) indicates equal contribution and exchangable
 
 ### Syhthetic Data and Differential Privacy
 - <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
@@ -20,7 +20,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
   AAAI SSS Clinincal FMs, 2024, Traditional Track (<b>Spotlight</b>, top 10 submission) <br>
   [Paper](https://openreview.net/pdf?id=OZXzTwP71l) <br>
 - <b> Supervised generative optimization approach for tabular data</b>  <br>
-  Fadi Hamad<sup>*</sup>, Shinpei Nakamura-Sakai<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
+  Shinpei Nakamura-Sakai<sup>*</sup>, Fadi Hamad<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
   Proceedings of the ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3604237.3626907) <br>
     * <b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
