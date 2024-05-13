@@ -22,7 +22,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 - <b> Supervised generative optimization approach for tabular data</b>  <br>
   Shinpei Nakamura-Sakai<sup>*</sup>, Fadi Hamad<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
   Proceedings of the ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
-  [Paper](https://dl.acm.org/doi/pdf/10.1145/3604237.3626907) <br>
+  [Paper](https://arxiv.org/pdf/2309.05079) <br>
     * <b>Winner of 2nd Place at JPMC Global Hackathon</b><br>
 
 
