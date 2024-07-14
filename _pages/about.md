@@ -57,6 +57,10 @@ Rohan Aanegola, Shinpei Nakamura-Sakai, Navin Kumar <br>
 Healthcare Analytics, 2021 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
 
+## Invited Talks
+- Heavy tails in machine learning, Isaac Newton Institute at Alan Turing Institute, Cambridge University, London UK, April 2024, [Link](https://gateway.newton.ac.uk/event/ofbw65/programme)<br>
+- UConn Sports Analytics Symposium, University of Connecticut, Storrs, CT, April 2024, [Link](https://statds.org/events/ucsas2024/program.html)<br>
+
 ## Media Appearance
 - <b> LeBron James Has Done Everything in the NBA. Except This.</b><br>
 THE WALL STREET JOURNAL <br>
