@@ -16,9 +16,9 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 ### Syhthetic Data and Differential Privacy
 - <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
   Shinpei Nakamura-Sakai, Dennis Shung, Jasjeet Sekhon <br>
-  Conference on Health, Inference, and Learning (CHIL), 2024, PMLR,  To appear <br>
+  Conference on Health, Inference, and Learning (CHIL), 2024, PMLR <br>
   AAAI SSS Clinincal FMs, 2024, Traditional Track (<b>Spotlight</b>, top 10 submission) <br>
-  [Paper](https://openreview.net/pdf?id=OZXzTwP71l) <br>
+  [Paper](https://raw.githubusercontent.com/mlresearch/v248/main/assets/nakamura-sakai24a/nakamura-sakai24a.pdf) <br>
 - <b> Supervised generative optimization approach for tabular data</b>  <br>
   Shinpei Nakamura-Sakai<sup>*</sup>, Fadi Hamad<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
   Proceedings of the ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
@@ -42,6 +42,11 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 
 
 ### Healthcare and Social Sciences
+- <b> Validation of an Electronic Health Record–Based Machine Learning Model Compared With Clinical Risk Scores for Gastrointestinal Bleeding</b><br>
+Dennis L Shung, Colleen E Chan, Kisung You, Shinpei Nakamura, Theo Saarinen, Neil S Zheng, Michael Simonov, Darrick K Li, Cynthia Tsay, Yuki Kawamura, Matthew Shen, Allen Hsiao, Jasjeet Sekhon, Loren Laine <br>
+Gastroenterology, 2024 <br>
+[Paper](https://www.sciencedirect.com/science/article/pii/S0016508524051837)
+
 - <b> COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit</b><br>
 N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, S Nakamura-Sakai, ... <br>
 BMC Public Health, 2022 <br>
