@@ -62,6 +62,12 @@ Rohan Aanegola, Shinpei Nakamura-Sakai, Navin Kumar <br>
 Healthcare Analytics, 2021 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
 
+## Employment
+- <b>Applied Scientist Intern</b>, [Amazon Science](https://www.amazon.science/), Summer 2024
+- <b>Quantitative Summer Associate</b>, [JPMorgan Chase AIML](https://www.jpmorgan.com/technology/applied-ai-and-ml), Summer 2023
+- <b>Data Summer Associate</b>, [Bitso](https://bitso.com/), Summer 2021
+- <b>Financial Researcher</b>, [Banco de México](https://www.banxico.org.mx/), Dec 2019 - Aug 2020
+
 ## Media Appearance
 - <b> LeBron James Has Done Everything in the NBA. Except This.</b><br>
 THE WALL STREET JOURNAL <br>
@@ -71,11 +77,6 @@ THE WALL STREET JOURNAL <br>
 The University of Chicago, Department of Statistics <br>
 [Article](https://stat.uchicago.edu/alumni/alumni-spotlight/meet-shinpei-nakamura-sakai-sm19/)
 
-## Employment
-- <b>Applied Scientist Intern</b>, [Amazon Science](https://www.amazon.science/), Summer 2024
-- <b>Quantitative Summer Associate</b>, [JPMorgan Chase AIML](https://www.jpmorgan.com/technology/applied-ai-and-ml), Summer 2023
-- <b>Data Summer Associate</b>, [Bitso](https://bitso.com/), Summer 2021
-- <b>Financial Researcher</b>, [Banco de México](https://www.banxico.org.mx/), Dec 2019 - Aug 2020
 
 ## Teaching
 ### Yale
