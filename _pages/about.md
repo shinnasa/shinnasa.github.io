@@ -67,6 +67,10 @@ Healthcare Analytics, 2021 <br>
 THE WALL STREET JOURNAL <br>
 [Article](https://www.wsj.com/sports/basketball/lebron-james-nba-career-averages-f17fb9d1)
 
+- <b> Alumni Spotlight</b><br>
+The University of Chicago, Department of Statistics <br>
+[Article](https://stat.uchicago.edu/alumni/alumni-spotlight/meet-shinpei-nakamura-sakai-sm19/)
+
 ## Teaching
 ### Yale
 - <b>Teaching Fellow</b>: Data Analysis (S&DS 361/661), Instructor: Brian Macdonald, Spring 2023
