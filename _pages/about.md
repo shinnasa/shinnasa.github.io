@@ -71,6 +71,12 @@ THE WALL STREET JOURNAL <br>
 The University of Chicago, Department of Statistics <br>
 [Article](https://stat.uchicago.edu/alumni/alumni-spotlight/meet-shinpei-nakamura-sakai-sm19/)
 
+## Employment
+- <b>Applied Scientist Intern</b>, [Amazon Science](https://www.amazon.science/), Summer 2024
+- <b>Quantitative Summer Associate</b>, [JPMorgan Chase AIML](https://www.jpmorgan.com/technology/applied-ai-and-ml), Summer 2023
+- <b>Data Summer Associate</b>, [Bitso](https://bitso.com/), Summer 2021
+- <b>Financial Researcher</b>, [Banco de México](https://www.banxico.org.mx/), Dec 2019 - Aug 2020
+
 ## Teaching
 ### Yale
 - <b>Teaching Fellow</b>: Data Analysis (S&DS 361/661), Instructor: Brian Macdonald, Spring 2023
@@ -86,8 +92,3 @@ The University of Chicago, Department of Statistics <br>
 ### The University of Chicago
 - <b>Workshop Instructor</b>: Introduction to Deep Learning, Summer 2019
 
-## Employment
-- <b>Applied Scientist Intern</b>, [Amazon Science](https://www.amazon.science/), Summer 2024
-- <b>Quantitative Summer Associate</b>, [JPMorgan Chase AIML](https://www.jpmorgan.com/technology/applied-ai-and-ml), Summer 2023
-- <b>Data Summer Associate</b>, [Bitso](https://bitso.com/), Summer 2021
-- <b>Financial Researcher</b>, [Banco de México](https://www.banxico.org.mx/), Dec 2019 - Aug 2020
