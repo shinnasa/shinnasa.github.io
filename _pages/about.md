@@ -48,7 +48,7 @@ Gastroenterology, 2024 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S0016508524051837)
 
 - <b> GUTGPT: NOVEL LARGE LANGUAGE MODEL PIPELINE OUTPERFORMS OTHER LARGE LANGUAGE MODELS IN ACCURACY AND SIMILARITY TO INTERNATIONAL EXPERTS FOR GUIDELINE RECOMMENDED MANAGEMENT OF PATIENTS WITH UPPER GASTROINTESTINAL BLEEDING</b><br>
-Mauro Giuffrè, Kisung You, Sunny Chung,Simone Kresevic, Colleen Chan, Theo Saarinen, Shinpei Nakamura, Loren Laine, Joseph JY Sung, Guadalupe Garcia-Tsao, Ian Gralnek, Alan N. Barkun,Jasjeet Sekhon, Dennis Shung<br>
+Mauro Giuffrè, Kisung You, Sunny Chung, Simone Kresevic, Colleen Chan, Theo Saarinen, Shinpei Nakamura, Loren Laine, Joseph JY Sung, Guadalupe Garcia-Tsao, Ian Gralnek, Alan N. Barkun, Jasjeet Sekhon, Dennis Shung<br>
 Gastroenterology, 2024 <br>
 [Paper](https://www.gastrojournal.org/article/S0016-5085(24)02528-9/abstract)
 
