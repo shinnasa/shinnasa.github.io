@@ -18,7 +18,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
   Shinpei Nakamura-Sakai, Dennis Shung, Jasjeet Sekhon <br>
   Conference on Health, Inference, and Learning (CHIL), 2024, PMLR <br>
   AAAI SSS Clinical FMs, 2024, Traditional Track (<b>Spotlight</b>, top 10 submission) <br>
-  [Paper](https://raw.githubusercontent.com/mlresearch/v248/main/assets/nakamura-sakai24a/nakamura-sakai24a.pdf) <br>
+  [Paper](https://proceedings.mlr.press/v248/nakamura-sakai24a.html) <br>
 - <b> Supervised generative optimization approach for tabular data</b>  <br>
   Shinpei Nakamura-Sakai<sup>*</sup>, Fadi Hamad<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
   Proceedings of the ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
