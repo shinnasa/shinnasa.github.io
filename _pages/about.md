@@ -29,7 +29,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 ### Causal Inference
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award),
+  [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award)
   - <b> Winner of the statistical significance award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
 
 
@@ -48,7 +48,7 @@ Gastroenterology, 2024 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S0016508524051837)
 
 - <b> GUTGPT: NOVEL LARGE LANGUAGE MODEL PIPELINE OUTPERFORMS OTHER LARGE LANGUAGE MODELS IN ACCURACY AND SIMILARITY TO INTERNATIONAL EXPERTS FOR GUIDELINE RECOMMENDED MANAGEMENT OF PATIENTS WITH UPPER GASTROINTESTINAL BLEEDING</b><br>
-Mauro Giuffrè,Kisung You, Sunny Chung,Simone Kresevic, Colleen Chan, Theo Saarinen, Shinpei Nakamura, Loren Laine, Joseph JY Sung, Guadalupe Garcia-Tsao, Ian Gralnek, Alan N. Barkun,Jasjeet Sekhon, Dennis Shung<br>
+Mauro Giuffrè, Kisung You, Sunny Chung,Simone Kresevic, Colleen Chan, Theo Saarinen, Shinpei Nakamura, Loren Laine, Joseph JY Sung, Guadalupe Garcia-Tsao, Ian Gralnek, Alan N. Barkun,Jasjeet Sekhon, Dennis Shung<br>
 Gastroenterology, 2024 <br>
 [Paper](https://www.gastrojournal.org/article/S0016-5085(24)02528-9/abstract)
 
