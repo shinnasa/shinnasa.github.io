@@ -29,7 +29,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 ### Causal Inference
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media2](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [Media1](https://magazine.amstat.org/blog/2023/11/01/thanks-asa-community/), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award)
+  [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media1](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [Media2](https://magazine.amstat.org/blog/2023/11/01/thanks-asa-community/), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award)
   - <b> Winner of the statistical significance award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
 
 
