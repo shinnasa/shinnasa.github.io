@@ -85,6 +85,7 @@ The University of Chicago, Department of Statistics <br>
 
 ## Teaching
 ### Yale
+- <b>Teaching Fellow</b>: Advances in Large Language Models: Theory and Applications (S&DS 617), Instructor: Jas Sekhon, Spring 2025
 - <b>Teaching Fellow</b>: Data Analysis (S&DS 361/661), Instructor: Brian Macdonald, Spring 2023
 - <b>Teaching Fellow</b>: Statistical Case Studies (S&DS 425), Instructor: Brian Macdonald, Fall 2022, Fall 2021
 - <b>Teaching Fellow</b>: Applied Machine Learning and Causal Inference (S&DS 317/517), Instructor: Jas Sekhon, Spring 2022
