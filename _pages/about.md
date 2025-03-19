@@ -27,6 +27,12 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 
 
 ### Causal Inference
+- <b> CLOUD-CG: Clustering on longitudinal causal graphs</b>  <br> 
+  Shinpei Nakamura-Sakai, Yuhe Gao, Chi-Hui Yen, Christoph Scheidiger, Jasjeet Sekhon <br>
+  AAAI AI for Sicial Impact: Bridging Innovations in Finance, Social Media, and Crime Prevention , 2025, (<b>Oral</b>) <br>
+  AAAI Artificial Intelligence with Causal Techniques, 2025, (<b>Oral</b>) <br>
+  [Paper](https://www.amazon.science/publications/cloud-cg-clustering-on-longitudinal-causal-graphs)
+  
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
   [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media1](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [Media2](https://magazine.amstat.org/blog/2023/11/01/thanks-asa-community/), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award)
