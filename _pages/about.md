@@ -28,7 +28,7 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
 
 ### Causal Inference
 - <b> CLOUD-CG: Clustering on longitudinal causal graphs</b>  <br> 
-  Shinpei Nakamura-Sakai<sup>*</sup>,, Yuhe Gao<sup>*</sup>,, Chi-Hui Yen, Christoph Scheidiger, Jasjeet Sekhon <br>
+  Shinpei Nakamura-Sakai<sup>*</sup>, Yuhe Gao<sup>*</sup>, Chi-Hui Yen, Christoph Scheidiger, Jasjeet Sekhon <br>
   AAAI, AI for Sicial Impact: Bridging Innovations in Finance, Social Media, and Crime Prevention, 2025, (<b>Oral</b>) <br>
   AAAI, Artificial Intelligence with Causal Techniques, 2025, (<b>Oral</b>, top 8 submission) <br>
   [Paper](https://www.amazon.science/publications/cloud-cg-clustering-on-longitudinal-causal-graphs)
