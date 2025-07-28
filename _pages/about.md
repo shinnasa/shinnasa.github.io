@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Statistics and Data Science at Yale University. My research interest lies in causal inference, synthetic data generation, and machine learning application. In application, I enjoy applying theory to solve problems related to finance, medicine, social science, and sports. I am very fortunate to be advised by Professor [Jas Sekhon](https://www.jsekhon.com/) and Professor [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
+I am an [Applied Scientist at Amazon](https://www.amazon.science/author/nakamura-sakai-shinpei), specializing in causal inference and its applications to real-world problems. I earned my Ph.D. in Statistics and Data Science from Yale University, where I was fortunate to be advised by [Jas Sekhon](https://www.jsekhon.com/) and [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
+
+My research interests focus on causal inference, synthetic data generation, and the application of machine learning to high-impact domains. I am particularly interested in bridging theory and practice to address challenges in finance, medicine, the social sciences, and sports analytics.
+
 
 ## Research
-(*) indicates equal contribution and exchangeable
+(*) indicates equal contribution and exchangeable order
 
 ### Synthetic Data and Differential Privacy
 - <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
@@ -38,6 +41,16 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
   [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media1](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [Media2](https://magazine.amstat.org/blog/2023/11/01/thanks-asa-community/), [News](https://statistics.yale.edu/news/shinpei-nakamura-sakai-wins-best-poster-award)
   - <b> Winner of the statistical significance award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
 
+### LLMs
+- <b>A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies</b><br>
+Zhongren Chen, Joshua Kalla, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, Ruixiao Wang (authors listed in alphabetical order)<br>
+[Paper](https://arxiv.org/pdf/2505.00036)
+
+- <b> GUTGPT: NOVEL LARGE LANGUAGE MODEL PIPELINE OUTPERFORMS OTHER LARGE LANGUAGE MODELS IN ACCURACY AND SIMILARITY TO INTERNATIONAL EXPERTS FOR GUIDELINE RECOMMENDED MANAGEMENT OF PATIENTS WITH UPPER GASTROINTESTINAL BLEEDING</b><br>
+Mauro Giuffrè, Kisung You, Sunny Chung, Simone Kresevic, Colleen Chan, Theo Saarinen, Shinpei Nakamura, Loren Laine, Joseph JY Sung, Guadalupe Garcia-Tsao, Ian Gralnek, Alan N. Barkun, Jasjeet Sekhon, Dennis Shung<br>
+Gastroenterology, 2024 <br>
+[Paper](https://www.gastrojournal.org/article/S0016-5085(24)02528-9/abstract)
+
 
 ### Sports Analytics
 - <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
@@ -47,16 +60,13 @@ I am a Ph.D. student in Statistics and Data Science at Yale University. My resea
   - <b> Winner of the best poster award </b> at UConn Sports Analytics Symposium (UCSAS), 2022 <br>
 
 
+
 ### Healthcare and Social Sciences
 - <b> Validation of an Electronic Health Record–Based Machine Learning Model Compared With Clinical Risk Scores for Gastrointestinal Bleeding</b><br>
 Dennis L Shung, Colleen E Chan, Kisung You, Shinpei Nakamura, Theo Saarinen, Neil S Zheng, Michael Simonov, Darrick K Li, Cynthia Tsay, Yuki Kawamura, Matthew Shen, Allen Hsiao, Jasjeet Sekhon, Loren Laine <br>
 Gastroenterology, 2024 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S0016508524051837)
 
-- <b> GUTGPT: NOVEL LARGE LANGUAGE MODEL PIPELINE OUTPERFORMS OTHER LARGE LANGUAGE MODELS IN ACCURACY AND SIMILARITY TO INTERNATIONAL EXPERTS FOR GUIDELINE RECOMMENDED MANAGEMENT OF PATIENTS WITH UPPER GASTROINTESTINAL BLEEDING</b><br>
-Mauro Giuffrè, Kisung You, Sunny Chung, Simone Kresevic, Colleen Chan, Theo Saarinen, Shinpei Nakamura, Loren Laine, Joseph JY Sung, Guadalupe Garcia-Tsao, Ian Gralnek, Alan N. Barkun, Jasjeet Sekhon, Dennis Shung<br>
-Gastroenterology, 2024 <br>
-[Paper](https://www.gastrojournal.org/article/S0016-5085(24)02528-9/abstract)
 
 - <b> COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit</b><br>
 N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, S Nakamura-Sakai, ... <br>
@@ -74,6 +84,7 @@ Healthcare Analytics, 2021 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
 
 ## Employment
+- <b>Applied Scientist</b>, [Amazon Science](https://www.amazon.science/), April 2024 - Present
 - <b>Applied Scientist Intern</b>, [Amazon Science](https://www.amazon.science/), Summer 2024
 - <b>Quantitative Summer Associate</b>, [JPMorgan Chase AIML](https://www.jpmorgan.com/technology/applied-ai-and-ml), Summer 2023
 - <b>Data Summer Associate</b>, [Bitso](https://bitso.com/), Summer 2021
