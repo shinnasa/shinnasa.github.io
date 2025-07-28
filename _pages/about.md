@@ -83,7 +83,7 @@ Healthcare Analytics, 2021 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S2772442522000077) 
 
 ## Employment
-- <b>Applied Scientist</b>, [Amazon Science](https://www.amazon.science/), April 2024 - Present
+- <b>Applied Scientist</b>, [Amazon Science](https://www.amazon.science/), April 2025 - Present
 - <b>Applied Scientist Intern</b>, [Amazon Science](https://www.amazon.science/), Summer 2024
 - <b>Quantitative Summer Associate</b>, [JPMorgan Chase AIML](https://www.jpmorgan.com/technology/applied-ai-and-ml), Summer 2023
 - <b>Data Summer Associate</b>, [Bitso](https://bitso.com/), Summer 2021
