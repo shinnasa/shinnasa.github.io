@@ -15,32 +15,6 @@ My research interests include causal inference, synthetic data generation, and t
 ## Research
 (*) indicates equal contribution and exchangeable order
 
-### Synthetic Data and Differential Privacy
-- <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
-  Shinpei Nakamura-Sakai, Dennis Shung, Jasjeet Sekhon <br>
-  Conference on Health, Inference, and Learning (CHIL), 2024, PMLR <br>
-  AAAI SSS Clinical FMs, 2024, Traditional Track (<b>Spotlight</b>, top 10 submission) <br>
-  [Paper](https://proceedings.mlr.press/v248/nakamura-sakai24a.html) <br>
-- <b> Supervised generative optimization approach for tabular data</b>  <br>
-  Shinpei Nakamura-Sakai<sup>*</sup>, Fadi Hamad<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
-  Proceedings of the ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
-  [Paper](https://arxiv.org/pdf/2309.05079), [Patent](https://patents.google.com/patent/US20250124332A1/en) <br>
-    * <b>Winner of 2nd Place at JPMorgan Chase Global Hackathon</b><br>
-
-
-### Causal Inference
-- <b> CLOUD-CG: Clustering on longitudinal causal graphs</b>  <br> 
-  Shinpei Nakamura-Sakai<sup>*</sup>, Yuhe Gao<sup>*</sup>, Chi-Hui Yen, Christoph Scheidiger, Jasjeet Sekhon <br>
-  AAAI, AI for Social Impact: Bridging Innovations in Finance, Social Media, and Crime Prevention, 2025, (<b>Oral</b>) <br>
-  AAAI, Artificial Intelligence with Causal Techniques, 2025, (<b>Oral</b>, top 8 submission) <br>
-  [Paper](https://www.amazon.science/publications/cloud-cg-clustering-on-longitudinal-causal-graphs)
-
-- <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
-  Shinpei Nakamura-Sakai, Laura Forastiere <br>
-  [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media1](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [Media2](https://magazine.amstat.org/blog/2023/11/01/thanks-asa-community/), [News](https://statistics.yale.edu/posts/2023-08-14-shinpei-nakamura-sakai-wins-best-poster-award)
-  - <b> Winner of the statistical significance award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
-
-### LLMs
 - <b>Usability and adoption in a randomized trial of GutGPT a GenAI tool for gastrointestinal bleeding</b><br>
 Sunny Chung, Mauro Giuffrè, Niroop Rajashekar, Yuan Pu, Yeo Eun Shin, Simone Kresevic, Colleen Chan, Shinpei Nakamura-Sakai, Kisung You, Theo Saarinen, Allen Hsiao, Ambrose H Wong, Leigh Evans, Terika McCall, Rene F Kizilcec, Jasjeet Sekhon, Loren Laine, Dennis L Shung<br>
 npj Digital Medicine , 2025<br>
@@ -50,27 +24,40 @@ npj Digital Medicine , 2025<br>
 Zhongren Chen, Joshua Kalla, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, Ruixiao Wang (authors listed in alphabetical order)<br>
 [Paper](https://arxiv.org/pdf/2505.00036)
 
-- <b> GUTGPT: NOVEL LARGE LANGUAGE MODEL PIPELINE OUTPERFORMS OTHER LARGE LANGUAGE MODELS IN ACCURACY AND SIMILARITY TO INTERNATIONAL EXPERTS FOR GUIDELINE RECOMMENDED MANAGEMENT OF PATIENTS WITH UPPER GASTROINTESTINAL BLEEDING</b><br>
-Mauro Giuffrè, Kisung You, Sunny Chung, Simone Kresevic, Colleen Chan, Theo Saarinen, Shinpei Nakamura, Loren Laine, Joseph JY Sung, Guadalupe Garcia-Tsao, Ian Gralnek, Alan N. Barkun, Jasjeet Sekhon, Dennis Shung<br>
-Gastroenterology, 2024 <br>
-[Paper](https://www.gastrojournal.org/article/S0016-5085(24)02528-9/abstract)
 
+- <b> CLOUD-CG: Clustering on longitudinal causal graphs</b>  <br> 
+  Shinpei Nakamura-Sakai<sup>*</sup>, Yuhe Gao<sup>*</sup>, Chi-Hui Yen, Christoph Scheidiger, Jasjeet Sekhon <br>
+  AAAI, AI for Social Impact: Bridging Innovations in Finance, Social Media, and Crime Prevention, 2025, (<b>Oral</b>) <br>
+  AAAI, Artificial Intelligence with Causal Techniques, 2025, (<b>Oral</b>, top 8 submission) <br>
+  [Paper](https://www.amazon.science/publications/cloud-cg-clustering-on-longitudinal-causal-graphs)
 
-### Sports Analytics
-- <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
-  Shinpei Nakamura-Sakai, Laura Forastiere, Brian Macdonald <br>
-  [Paper](https://arxiv.org/pdf/2402.12400.pdf), [Award1](https://statds.org/events/ucsas2022/),  [Award2](https://www.nessis.org/nessis23.html), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [News](https://statistics.yale.edu/posts/2023-09-25-congratulations-to-shinpei-nakamura-sakai-for-winning-the-2023-nessis-student)
-  - <b> Winner of the best poster award </b> at New England Symposium on Statistics in Sports (NESSIS), 2023<br>
-  - <b> Winner of the best poster award </b> at UConn Sports Analytics Symposium (UCSAS), 2022 <br>
-
-
-
-### Healthcare and Social Sciences
 - <b> Validation of an Electronic Health Record–Based Machine Learning Model Compared With Clinical Risk Scores for Gastrointestinal Bleeding</b><br>
 Dennis L Shung, Colleen E Chan, Kisung You, Shinpei Nakamura, Theo Saarinen, Neil S Zheng, Michael Simonov, Darrick K Li, Cynthia Tsay, Yuki Kawamura, Matthew Shen, Allen Hsiao, Jasjeet Sekhon, Loren Laine <br>
 Gastroenterology, 2024 <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S0016508524051837)
 
+- <b> Enhancing Collaborative Medical Outcomes through Private Synthetic Hypercube Augmentation: PriSHA</b>  <br>
+  Shinpei Nakamura-Sakai, Dennis Shung, Jasjeet Sekhon <br>
+  Conference on Health, Inference, and Learning (CHIL), 2024, PMLR <br>
+  AAAI SSS Clinical FMs, 2024, Traditional Track (<b>Spotlight</b>, top 10 submission) <br>
+  [Paper](https://proceedings.mlr.press/v248/nakamura-sakai24a.html) <br>
+
+- <b> Supervised generative optimization approach for tabular data</b>  <br>
+  Shinpei Nakamura-Sakai<sup>*</sup>, Fadi Hamad<sup>*</sup>, Saheed Obitayo, Vamsi K. Potluru <br>
+  Proceedings of the ACM International Conference on AI in Finance (ICAIF), 2023, (<b>Oral</b>, top 20.5%) <br>
+  [Paper](https://arxiv.org/pdf/2309.05079), [Patent](https://patents.google.com/patent/US20250124332A1/en) <br>
+    * <b>Winner of 2nd Place at JPMorgan Chase Global Hackathon</b><br>
+
+- <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
+  Shinpei Nakamura-Sakai, Laura Forastiere <br>
+  [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media1](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [Media2](https://magazine.amstat.org/blog/2023/11/01/thanks-asa-community/), [News](https://statistics.yale.edu/posts/2023-08-14-shinpei-nakamura-sakai-wins-best-poster-award)
+  - <b> Winner of the statistical significance award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
+
+- <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
+  Shinpei Nakamura-Sakai, Laura Forastiere, Brian Macdonald <br>
+  [Paper](https://arxiv.org/pdf/2402.12400.pdf), [Award1](https://statds.org/events/ucsas2022/),  [Award2](https://www.nessis.org/nessis23.html), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [News](https://statistics.yale.edu/posts/2023-09-25-congratulations-to-shinpei-nakamura-sakai-for-winning-the-2023-nessis-student)
+  - <b> Winner of the best poster award </b> at New England Symposium on Statistics in Sports (NESSIS), 2023<br>
+  - <b> Winner of the best poster award </b> at UConn Sports Analytics Symposium (UCSAS), 2022 <br>
 
 - <b> COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit</b><br>
 N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, S Nakamura-Sakai, ... <br>
