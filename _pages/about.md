@@ -41,6 +41,11 @@ My research interests include causal inference, synthetic data generation, and t
   - <b> Winner of the statistical significance award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
 
 ### LLMs
+- <b>Usability and adoption in a randomized trial of GutGPT a GenAI tool for gastrointestinal bleeding</b><br>
+Sunny Chung, Mauro Giuffrè, Niroop Rajashekar, Yuan Pu, Yeo Eun Shin, Simone Kresevic, Colleen Chan, Shinpei Nakamura-Sakai, Kisung You, Theo Saarinen, Allen Hsiao, Ambrose H Wong, Leigh Evans, Terika McCall, Rene F Kizilcec, Jasjeet Sekhon, Loren Laine, Dennis L Shung<br>
+npj Digital Medicine <br>
+[Paper](https://www.nature.com/articles/s41746-025-01896-5)
+
 - <b>A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies</b><br>
 Zhongren Chen, Joshua Kalla, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, Ruixiao Wang (authors listed in alphabetical order)<br>
 [Paper](https://arxiv.org/pdf/2505.00036)
