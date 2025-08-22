@@ -24,7 +24,6 @@ npj Digital Medicine , 2025<br>
 Zhongren Chen, Joshua Kalla, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, Ruixiao Wang (authors listed in alphabetical order)<br>
 [Paper](https://arxiv.org/pdf/2505.00036)
 
-
 - <b> CLOUD-CG: Clustering on longitudinal causal graphs</b>  <br> 
   Shinpei Nakamura-Sakai<sup>*</sup>, Yuhe Gao<sup>*</sup>, Chi-Hui Yen, Christoph Scheidiger, Jasjeet Sekhon <br>
   AAAI, AI for Social Impact: Bridging Innovations in Finance, Social Media, and Crime Prevention, 2025, (<b>Oral</b>) <br>
