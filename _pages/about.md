@@ -47,16 +47,19 @@ Gastroenterology, 2024 <br>
   [Paper](https://arxiv.org/pdf/2309.05079), [Patent](https://patents.google.com/patent/US20250124332A1/en) <br>
     * <b>Winner of 2nd Place at JPMorgan Chase Global Hackathon</b><br>
 
+
 - <b> Estimating the age conditioned average treatment effects curves: An application on assessing load-management strategies in the NBA</b>  <br>
   Shinpei Nakamura-Sakai, Laura Forastiere, Brian Macdonald <br>
   [Paper](https://arxiv.org/pdf/2402.12400.pdf), [Award1](https://statds.org/events/ucsas2022/),  [Award2](https://www.nessis.org/nessis23.html), [Media](https://magazine.amstat.org/blog/2023/01/02/uconn-sports-analytics-symposium/), [News](https://statistics.yale.edu/posts/2023-09-25-congratulations-to-shinpei-nakamura-sakai-for-winning-the-2023-nessis-student)
   - <b> Winner of the best poster award </b> at New England Symposium on Statistics in Sports (NESSIS), 2023<br>
   - <b> Winner of the best poster award </b> at UConn Sports Analytics Symposium (UCSAS), 2022 <br>
 
+
 - <b> Estimating causal effects of interventions altering social connectivity patterns under network interference</b>  <br> 
   Shinpei Nakamura-Sakai, Laura Forastiere <br>
   [Poster](https://shinnasa.github.io/files/JSM_2023_Poster_Social_Connectivity.pdf), [Award](https://community.amstat.org/spaac/awards/poster-award),  [Media1](https://magazine.amstat.org/blog/2023/10/02/two-take-home-first-place-in-statistical-significance-competition/), [Media2](https://magazine.amstat.org/blog/2023/11/01/thanks-asa-community/), [News](https://statistics.yale.edu/posts/2023-08-14-shinpei-nakamura-sakai-wins-best-poster-award)
   - <b> Winner of the statistical significance award </b>  at Joint Statistical Meeting (JSM), 2023 <br>
+
 
 - <b> COVID-19 Vaccine Perceptions in the Initial Phases of US Vaccine Roll-out: An Observational Study on Reddit</b><br>
 N Kumar, I Corpus, M Hans, N Harle, N Yang, C McDonald, S Nakamura-Sakai, ... <br>
