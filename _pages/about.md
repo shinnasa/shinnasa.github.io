@@ -102,9 +102,6 @@ The University of Chicago, Department of Statistics <br>
 
 ### Universidad Nacional Autónoma de México (UNAM)
 - <b>Adjunct Professor</b>: Advanced Probability, Spring 2020
-- <b>Teaching Assistant</b>: Stochastic Processes, Spring 2017
-- <b>Teaching Assistant</b>: Risk Theory, Fall 2016
-- <b>Workshop Instructor</b>: Construction and Evaluation of Actuarial Models Exam C, Fall 2016
 
 ### The University of Chicago
 - <b>Workshop Instructor</b>: Introduction to Deep Learning, Summer 2019
