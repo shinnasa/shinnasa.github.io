@@ -17,7 +17,7 @@ My research interests include causal inference, synthetic data generation, and t
 
 - <b>Usability and adoption in a randomized trial of GutGPT a GenAI tool for gastrointestinal bleeding</b><br>
 Sunny Chung, Mauro Giuffrè, Niroop Rajashekar, Yuan Pu, Yeo Eun Shin, Simone Kresevic, Colleen Chan, Shinpei Nakamura-Sakai, Kisung You, Theo Saarinen, Allen Hsiao, Ambrose H Wong, Leigh Evans, Terika McCall, Rene F Kizilcec, Jasjeet Sekhon, Loren Laine, Dennis L Shung<br>
-npj Digital Medicine , 2025<br>
+npj Digital Medicine, 2025<br>
 [Paper](https://www.nature.com/articles/s41746-025-01896-5)
 
 - <b>A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies</b><br>
