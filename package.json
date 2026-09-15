@@ -1,22 +1,18 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "shinnasa.github.io",
+  "version": "1.0.0",
+  "description": "Build scripts for shinnasa.github.io. Only used to regenerate assets/js/main.min.js.",
+  "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/shinnasa/shinnasa.github.io.git"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academicpages"
   ],
-  "author": "Michael Rose",
+  "author": "Shinpei Nakamura-Sakai",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
-  },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
   "engines": {
     "node": ">= 0.10.0"
   },

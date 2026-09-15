@@ -23,7 +23,16 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        {% comment %}
+          location_url is a local addition: makes the location a link when set.
+          The icon must sit INSIDE the <a>, as in every other row — .author__urls a
+          is display:block, so an anchor beside the icon wraps onto its own line.
+        {% endcomment %}
+        {% if author.location_url %}
+          <li><a href="{{ author.location_url }}"><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</a></li>
+        {% else %}
+          <li><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>
+        {% endif %}
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

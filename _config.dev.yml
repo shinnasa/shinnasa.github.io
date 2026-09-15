@@ -1,13 +1,17 @@
 # Develop override settings
+#
+# Usage: bundle exec jekyll serve --config _config.yml,_config.dev.yml
+# (the second --config merges over the first, it does not replace it)
+#
+# Analytics are suppressed automatically in development by the environment
+# guard in _includes/analytics.html, so there is nothing to override here.
 
-url: http://localhost:4000
-
-analytics:
-  provider: false
-
-comments:
-  disqus:
-    shortname            : "mmistakes-dev"
+# Empty (not absent) so _includes/base_path yields "" and every asset URL becomes
+# root-relative, e.g. /assets/css/main.css. An absolute dev host makes the webfonts
+# cross-origin whenever you browse via a different hostname (127.0.0.1 vs localhost
+# vs 0.0.0.0), and browsers block cross-origin fonts — icons render as empty boxes.
+# Note: in Liquid an empty string is truthy, so base_path takes the site.url branch.
+url: ""
 
 sass:
   style: expanded

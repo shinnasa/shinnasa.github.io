@@ -19,9 +19,10 @@ gem "github-pages", group: :jekyll_plugins
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
+# Note: gems in this group are auto-loaded regardless of the `plugins:` list in
+# _config.yml, so jekyll-feed is omitted here as well as there — the site has no
+# posts, and leaving it in generated an empty feed.xml.
 group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end

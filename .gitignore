@@ -1,2 +1,10 @@
 _site/
+.bundle/
+vendor/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
 
+# GitHub Pages resolves its own dependency versions, so a committed lockfile
+# only pins the local dev environment and tends to drift.
+Gemfile.lock

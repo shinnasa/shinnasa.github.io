@@ -1,4 +1,7 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
-{% include analytics.html %}
+{% comment %}
+  analytics.html is included once, in <head> via _layouts/default.html.
+  Do not include it here as well — that loads and configures gtag.js twice per pageview.
+{% endcomment %}
 {% include /comments-providers/scripts.html %}
